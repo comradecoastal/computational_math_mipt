@@ -1,5 +1,8 @@
 # Homework
 
+### Задание 3
+ - [ ] [Неделя 1](./module_3/week_1/hw_3_1.ipynb)
+
 ### Задание 2
  - [ ] [Неделя 1](./module_2/week_1/hw_2_1.ipynb)
  - [ ] [Неделя 2](./module_2/week_2/hw_2_2.ipynb)
