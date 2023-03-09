@@ -2,7 +2,8 @@
 
 ### Задание 1
  - [ ] [Неделя 1](./module_4/week_1/hw_1.ipynb)
- - [ ] [Неделя 2](./module_4/week_1/hw_2.ipynb)
+ - [ ] [Неделя 2](./module_4/week_2/hw_2.ipynb)
+ - [ ] [Неделя 3](./module_4/week_3/hw_3.ipynb)
 
 <!-- 
 ### Задание 3
